@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DicodingEvents</string>
+    <string name="title_home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="active_events">Active Events</string>
+    <string name="event_image">Event Image</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_date">Event Date</string>
+    <string name="register_event">Register Event</string>
+    <string name="todo">TODO</string>
+</resources>
